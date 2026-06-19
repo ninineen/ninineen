@@ -1,4 +1,4 @@
-![NiniNeen](logo_1000.png)
+<p align="center"><img src="logo_1000.png" alt="NiniNeen" width="700" height="233"></p>
 
 ### 👩‍💻 Frontend Developer by day, LlamaPaca anime girl by night.
 
@@ -43,9 +43,9 @@ Senior Frontend Engineer building clean UIs during the day, and moonlighting as 
 
 💖 Streaming, coding, and writing very gay fiction.
 
-![angry](angry.png)
-
 <sub>Profile picture by <a href="https://x.com/BenteJam">@BenteJam</a></sub> |
 <sub>Llama sticker by yours truly.</sub>
-
 <sub>© NiniNeen. All images are all rights reserved.</sub>
+<p align="center"><img src="angry.png" alt="angry" width="290" height="300"></p>
+
+
