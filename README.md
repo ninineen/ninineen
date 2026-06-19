@@ -1,3 +1,5 @@
+![NiniNeen](logo_1000.png)
+
 ### 👩‍💻 Frontend Developer by day, LlamaPaca anime girl by night.
 
 Senior Frontend Engineer building clean UIs during the day, and moonlighting as a Virtual Content Creator (**NiniNeen**) after hours. 
@@ -19,7 +21,7 @@ Senior Frontend Engineer building clean UIs during the day, and moonlighting as 
 
 * 👾 **Stream Widgets:** Custom web-tech and tools to elevate stream overlays.
 * 🧪 **Toy Projects:** Experimental frontend ideas and creative coding sandboxes.
-* 📝 **AO3 Skin Crafting:** Utilizing modern CSS layout tricks to perfect the formatting and presentation of my favorite fiction.
+* 📝 **AO3 Skin Crafting:** CSS layout tricks to perfect the formatting and presentation of my favorite <s>yaoi</s> fanfics.
 
 *Always over-engineering things for the aesthetic.* ✨
 
@@ -39,4 +41,11 @@ Senior Frontend Engineer building clean UIs during the day, and moonlighting as 
 
 ---
 
-🛸 *Find me streaming, coding, or writing my Yaoi manuscript*
+💖 Streaming, coding, and writing very gay fiction.
+
+![angry](angry.png)
+
+<sub>Profile picture by <a href="https://x.com/BenteJam">@BenteJam</a></sub> |
+<sub>Llama sticker by yours truly.</sub>
+
+<sub>© NiniNeen. All images are all rights reserved.</sub>
