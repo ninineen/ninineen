@@ -19,6 +19,7 @@ Senior Frontend Engineer building clean UIs during the day, and moonlighting as 
 
 ### 🛠️ What I'm Building
 
+* 🧩 **[AO3 Rich Comment Editor](https://github.com/ninineen/AO3-Rich-Comment-Editor):** Browser extension bringing the rich text editor to AO3 comment boxes — Trix, DOMPurify, MV3.
 * 👾 **Stream Widgets:** Custom web-tech and tools to elevate stream overlays.
 * 🧪 **Toy Projects:** Experimental frontend ideas and creative coding sandboxes.
 * 📝 **AO3 Skin Crafting:** CSS layout tricks to perfect the formatting and presentation of my favorite <s>yaoi</s> fanfics.
